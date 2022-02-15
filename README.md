@@ -1,4 +1,4 @@
-[license]: http://www.apache.org/licenses/LICENSE-2.0 "Apache License 2.0"
+[LICENSE]: http://www.apache.org/licenses/LICENSE-2.0 "Apache License 2.0"
 [release]: https://github.com/viclovsky/swagger-coverage/releases/latest "Latest release"
 [release-badge]: https://img.shields.io/github/release/viclovsky/swagger-coverage.svg?style=flat
 [maven]: https://repo.maven.apache.org/maven2/com/github/viclovsky/swagger-coverage-commandline/ "Maven Central"

@@ -24,8 +24,8 @@
     },
     "filterAllByTag": {
       "enable": true,
-      "filter": ["pet"],
-      "ignore": []
+      "filter": [],
+      "ignore": ["test"]
     }
   },
   "writers": {
